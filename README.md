@@ -44,8 +44,6 @@ For information related to the Bible API, which does not collect data, contact T
 
 This privacy policy is compliant with the general legal frameworks and standards applicable to OpenAI's services.
 
----
-
 ## Bible reference GPT access link
 
 link can be found here: [https://chat.openai.com/g/g-jYDI6P4rZ-bible-reference-gpt](https://chat.openai.com/g/g-jYDI6P4rZ-bible-reference-gpt)
