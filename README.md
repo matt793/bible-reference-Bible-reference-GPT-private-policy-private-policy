@@ -1,4 +1,4 @@
-# Bible reference GPT Privacy Policy
+# Privacy Policy
 
 _Last Updated: November 29, 2023_
 
@@ -38,6 +38,9 @@ This policy may be updated periodically. Users will be notified of changes throu
 
 For any privacy concerns, please contact Matthew at [matthew_christ@protonmail.com](mailto:matthew_christ@protonmail.com).
 
+For information related to the Bible API, which does not collect data, contact Tim Morgan. The GitHub repository for the Bible API can be found at [https://github.com/seven1m/bible_api](https://github.com/seven1m/bible_api).
+
 ## Legal Compliance
 
 This privacy policy is compliant with the general legal frameworks and standards applicable to OpenAI's services.
+
